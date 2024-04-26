@@ -61,6 +61,7 @@ Dataset:
 Data CSV Source : [Data Source](https://www.kaggle.com/datasets/sandhiyakumar/airline-passenger-satisfication-data)
 
 **Numeric**
+
 Numeric data is a type of data that consists of numbers and can be measured or quantified. It represents quantities or values of a data.
 
 - Discrete
