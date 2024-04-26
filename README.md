@@ -31,7 +31,7 @@ Data Variable is a container that holds certain information or data. It can be a
 
 Dataset:
 
-<div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends.png</div>
+<div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends.png" /></div>
 
 Data CSV Source : [Data Source](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
@@ -42,19 +42,19 @@ Categorical data is a type of data that can be divided into groups or categories
   Nominal scales involve labeling variables without assigning quantitative values, essentially serving as straightforward labels.
 
   Example :
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends%20-%20Nominal.png</div>
+  <div align="center"><img src=https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends%20-%20Nominal.png" /></div>
 
 - Ordinal
   Ordinal scales prioritize the order of values, but the exact differences between them aren't precisely quantified.
 
   Example :
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends%20-%20Ordinal.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends%20-%20Ordinal.png" /></div>
 
 ---
 
 Dataset:
 
-<div align="center"><img src="" /></div>
+<div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight.png" /></div>
 
 Data CSV Source : [Data Source](https://www.kaggle.com/datasets/sandhiyakumar/airline-passenger-satisfication-data)
 
@@ -65,13 +65,13 @@ Numeric data is a type of data that consists of numbers and can be measured or q
   Discrete data encompass items that are countable, assuming possible values that can be enumerated. The range of potential values may be fixed, termed finite, or extend infinitely from 0 onward.
 
   Example :
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Discrite.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Discrite.png" /></div>
 
 - Continuous
   Continuous data, on the other hand, represent measurements without countable values, only describable through intervals on the real number line.
 
   Example :
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Continous.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Continous.png" /></div>
 
 ### Data Categories
 
@@ -80,12 +80,12 @@ Numeric data is a type of data that consists of numbers and can be measured or q
 - Quantitative data : Quantitative data is information that is expressed in numerical form or quantities. This type of data can be measured and counted numerically.
 
   Example :
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Quantitative.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Quantitative.png" /></div>
 
 - Qualitative data : qualitative data is information that is expressed in descriptive or qualitative form. It describes specific characteristics or qualities that cannot be measured numerically.
 
   Example :
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Qualitative.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Flight%20-%20Qualitative.png" /></div>
 
 ### Metadata
 
@@ -93,7 +93,7 @@ Metadata is descriptive or structural data that provides information about other
 
 Data CSV Source : [Data Source](https://opendata.jabarprov.go.id/id/dataset/jumlah-peminatan-kelas-pelatihan-candradimuka-jabar-coding-camp-berdasarkan-batch-dan-mode-kelas-di-jawa-barat)
 
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Metadata.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Metadata.png" /></div>
 
 ### Big Data
 
@@ -107,83 +107,83 @@ Examples of Big Data Sources:
 
 Data Cleansing is the process of identifying and correcting errors or inconsistencies in data to improve its quality and reliability. It involves removing duplicate records, correcting inaccurate data, filling in missing values, and standardizing data formats.
 
-<div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Lusitania.png</div>
+<div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Lusitania.png" /></div>
 
 - Data CSV Source : [Data Source](https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest/data)
 
 - Data Imputation
   Data imputation refers to the process of filling in missing values in a dataset. This is a common task in data preprocessing, especially when dealing with real-world datasets that often have missing or incomplete information.
 
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Data%20Imputation.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Data%20Imputation.png" /></div>
 
 - Drop Data
   Dropping data involves removing rows or columns from a dataset, typically due to reasons like missing values, outliers, redundant variables, data quality issues, or specific sample selection criteria. It should be done carefully, as it may lead to information loss or biased results.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Drop%20Data.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Drop%20Data.png" /></div>
 
 - Categorical Nominal
   Categorical nominal data refers to variables in a dataset that represent categories or groups with no inherent order or ranking. These categories are distinct and separate, and there is no natural ordering among them.
 
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Categorical.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Categorical.png" /></div>
 
 - Data Manipulation
   Data manipulation involves the process of altering or manipulating data to prepare it for analysis. This often includes a series of operations such as merging (joining), filtering, grouping, transforming, and more. The goal is to obtain data that is more structured, relevant, and ready for further analysis.
 
-  <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Data%20Manipulation.png</div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Data%20Manipulation.png" /></div>
 
   - Relationship between Column
     The relationship between columns in a dataset refers to how variables are related or connected to each other. This relationship can be explored through various statistical methods, such as correlation analysis, regression analysis, and more.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Relation%20Between%20Column.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Relation%20Between%20Column.png" /></div>
 
   - Pivot Table
     A pivot table is a data summarization tool used in data processing and analysis. It allows you to reorganize and summarize selected columns and rows of data in a spreadsheet or database table to obtain a desired report or analysis.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Pivot%20%2B%20Visual.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Pivot%20%2B%20Visual.png" /></div>
 
   - Pivot Slice
     A pivot slice is a subset of data obtained by selecting specific rows and columns from a pivot table. It allows you to focus on a particular segment of the data for further analysis or visualization.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Pivot%20Slice.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Pivot%20Slice.png" /></div>
 
   - Group By
     The groupby function in Python is used to split data into groups based on some criteria, apply a function to each group independently, and then combine the results into a data structure.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/GroupBy.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/GroupBy.png" /></div>
 
   - Crosstab
     A crosstab (cross-tabulation) is a table that displays the frequency distribution of variables in a dataset. It shows the relationship between two or more variables by summarizing the data in a tabular format.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Crosstab.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Crosstab.png" /></div>
 
   - Get Dummies
     The get_dummies function in Python is used to convert categorical variables into dummy/indicator variables. It creates a new binary column for each unique category in the original variable, assigning a value of 1 to the corresponding category and 0 to all others.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Get%20Dummies.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Get%20Dummies.png" /></div>
 
   - Sort
     Sorting data involves arranging rows or columns in a dataset in a specific order based on the values of one or more variables. This can help organize the data for better readability, analysis, or visualization.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Sort.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Sort.png" /></div>
 
   - Rename
     Renaming columns in a dataset involves changing the names of variables to make them more descriptive, meaningful, or consistent. This can help improve the clarity and interpretability of the data.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Rename.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Rename.png" /></div>
 
   - Concat
     Concatenation is the process of combining two or more datasets along a common axis (row or column) to create a single dataset. This can be useful for merging data from different sources, combining data with similar structures, or creating new datasets for analysis.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Concat.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Concat.png" /></div>
 
   - Merge
     Merging data involves combining datasets based on common columns or keys to create a single dataset. This can be useful for integrating data from multiple sources, performing relational database operations, or joining data for analysis.
 
-    <div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Marge.png</div>
+    <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Marge.png" /></div>
 
 ## Lusitania - Dataset Cleansing
 
-In this section use all what we have learned in this week. We will clean the dataset and we use the dataset from [Data Source](https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest/data). This dataset contains information about the passengers on the RMS Lusitania, a British ocean liner that was sunk by a German U-boat during World War I
+In this section use all what we have learned in this week. We will clean the dataset and we use the dataset from [Keggle](https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest/data). This dataset contains information about the passengers on the RMS Lusitania, a British ocean liner that was sunk by a German U-boat during World War I
 
 For more details:
 [Open File](https://github.com/sisatput/DataAnalytics1/blob/main/Data%20Cleansing%20Dataset%20Lusitania.ipynb)
