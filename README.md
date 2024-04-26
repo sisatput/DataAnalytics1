@@ -39,12 +39,14 @@ Data CSV Source : [Data Source](https://www.kaggle.com/datasets/iamsouravbanerje
 Categorical data is a type of data that can be divided into groups or categories. It represents characteristics or attributes of a data
 
 - Nominal
+
   Nominal scales involve labeling variables without assigning quantitative values, essentially serving as straightforward labels.
 
   Example :
-  <div align="center"><img src=https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends%20-%20Nominal.png" /></div>
+  <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/StoreTrends%20-%20Nominal.png" /></div>
 
 - Ordinal
+
   Ordinal scales prioritize the order of values, but the exact differences between them aren't precisely quantified.
 
   Example :
