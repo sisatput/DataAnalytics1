@@ -36,6 +36,7 @@ Dataset:
 Data CSV Source : [Data Source](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
 **Category**
+
 Categorical data is a type of data that can be divided into groups or categories. It represents characteristics or attributes of a data
 
 - Nominal
@@ -112,7 +113,7 @@ Data Cleansing is the process of identifying and correcting errors or inconsiste
 
 <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics1/Lusitania.png" /></div>
 
-- Data CSV Source : [Data Source](https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest/data)
+ Data CSV Source : [Data Source](https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest/data)
 
 - Data Imputation
   Data imputation refers to the process of filling in missing values in a dataset. This is a common task in data preprocessing, especially when dealing with real-world datasets that often have missing or incomplete information.
