@@ -1,4 +1,4 @@
-# Learn Data Visualisation Part 1
+# Learn Data Analytic Part 1
 
 This repository contains the first part of the Python Mastery for Data Analysts guide, focusing on foundational Python concepts essential for data analysis. This guide is designed to help you build a strong foundation in Python programming, equipping you with the necessary skills to perform data analysis tasks effectively.
 
